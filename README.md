@@ -18,8 +18,6 @@
 </div>
   <a href="[https://www.linkedin.com/in/vitorkayon/](https://br.linkedin.com/in/vitor-kayon-de-lara-madruga-2145b4202?trk=people-guest_people_search-card)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Kayonz/Kayonz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kayonz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-

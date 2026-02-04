@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliAlves/micaellialves/main/dio/cover-dio.png" alt="Capa de Perfil" width="100%"/>
+  <!-- Removendo a capa anterior para garantir funcionalidade. Pode ser adicionada uma nova se o usuário desejar. -->
 </div>
 
 <h1 align="center">Vitor Kayon</h1>
@@ -64,7 +64,7 @@
 ## 🐍 Atividade Recente
 
 <div align="center">
-  <img src="https://github.com/Kayonz/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="Animação da Cobra"/>
+  <img src="https://raw.githubusercontent.com/Kayonz/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" alt="Animação da Cobra"/>
 </div>
 
 ---

@@ -64,7 +64,7 @@
 ## 🐍 Atividade Recente
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kayonz/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" alt="Animação da Cobra"/>
+  <img src="https://raw.githubusercontent.com/Kayonz/Kayonz/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" alt="Animação da Cobra"/>
 </div>
 
 ---
